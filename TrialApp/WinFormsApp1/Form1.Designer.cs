@@ -41,7 +41,7 @@ namespace WinFormsApp1
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(110, 23);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "hello 6";
+            this.textBox1.Text = "hello 7";
             // 
             // label1
             // 
@@ -50,7 +50,7 @@ namespace WinFormsApp1
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(36, 15);
             this.label1.TabIndex = 1;
-            this.label1.Text = "VER 6";
+            this.label1.Text = "VER 7";
             // 
             // label2
             // 
