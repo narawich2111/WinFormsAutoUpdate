@@ -41,16 +41,16 @@ namespace WinFormsApp1
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(110, 23);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "hello 9";
+            this.textBox1.Text = "hello 10";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(35, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(36, 15);
+            this.label1.Size = new System.Drawing.Size(42, 15);
             this.label1.TabIndex = 1;
-            this.label1.Text = "VER 9";
+            this.label1.Text = "VER 10";
             // 
             // label2
             // 
